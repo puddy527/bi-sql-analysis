@@ -6,3 +6,6 @@ analyzing sales rep performance and specific monthly trends
 
 analyzing shopping data with a focus on the preferences and behaviours of each gender
 
+analyzing reasons for dropping out of online courses
+
+
